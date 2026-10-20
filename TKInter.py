@@ -64,7 +64,7 @@ def hasil_prediksi():
         text="Prediksi Prodi: Teknologi Informasi"
     )
 
-# Tombol hasil prediksi
+
 button = tk.Button(
     top,
     text="Hasil Prediksi",
