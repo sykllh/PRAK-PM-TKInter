@@ -1,10 +1,10 @@
 import tkinter as tk
-
 # Membuat jendela utama
 top = tk.Tk()
 top.title("Aplikasi Prediksi Prodi Pilihan")
 top.geometry("500x700")
 top.configure(bg="#292765")
+
 
 # Label judul
 judul = tk.Label(
