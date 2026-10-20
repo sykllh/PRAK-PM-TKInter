@@ -20,7 +20,6 @@ frame.pack()
 
 input_nilai = []
 
-# Membuat 10 input nilai
 for i in range(10):
     label = tk.Label(
         frame,
