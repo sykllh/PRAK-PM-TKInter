@@ -44,7 +44,6 @@ label_jurusan = tk.Label(
 )
 label_jurusan.pack(pady=(25, 5))
 
-# Pilihan jurusan menggunakan OptionMenu
 jurusan = tk.StringVar()
 jurusan.set("Teknologi Informasi")
 
