@@ -36,7 +36,6 @@ for i in range(10):
 
     input_nilai.append(entry)
 
-# Label pilihan jurusan
 label_jurusan = tk.Label(
     top,
     text="Pilihan Jurusan Anda:",
